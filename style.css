@@ -1,0 +1,25 @@
+body{
+    background-color :aliceblue;
+    
+        font-family: 'Roboto', sans-serif;
+      }
+  
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: rgb(165, 54, 54);
+  }
+    
+    .navbar a {
+      display: inline-block;
+      margin-right: 10px;
+      text-decoration: none;
+      color: black;
+    }
+    .highlight {
+        background-color: yellow;
+        font-weight: bold;
+      }
